@@ -1,8 +1,13 @@
 // Dependencies =========================
-var twit = require('twit'),
-config = require('./config');
-
-var Twitter = new twit(config);
+require('dotenv').config()
+console.log(process.env)
+var twit = require('twit')
+var Twitter = new twit({
+  consumer_key: process.env.CONSUMER_KEY,
+  consumer_secret: process.env.CONSUMER_SECRET,
+  access_token: process.env.ACCESS_TOKEN,
+  access_token_secret: process.env.ACCESS_TOKEN_SECRET,
+});
 
 // RETWEET BOT ==========================
 
@@ -17,7 +22,6 @@ var retweet = function () {
     // if there no errors
     if (!err) {
       // grab ID of tweet to retweet
-      console.log(data)
       var retweetId = data.statuses[0].id_str;
       console.log(retweetId)
       // Tell TWITTER to retweet
@@ -32,7 +36,6 @@ var retweet = function () {
           }
           // if there was an error while tweeting
           if (err) {
-            console.log(err)
             console.log(
               'Something went wrong while RETWEETING... Duplication maybe...'
             );
