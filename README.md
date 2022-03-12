@@ -143,7 +143,7 @@ Project Link: [NetflixV2](https://netflix-v2.netlify.app/)
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Karl Hadwen](https://twitter.com/amanhimself)
+* [Aman Mittal](https://twitter.com/amanhimself)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
