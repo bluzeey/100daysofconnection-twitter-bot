@@ -22,7 +22,7 @@
     ·
     <a href="https://github.com/bluzeey/netflix-clone/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/netflix-clone/issues">Request Feature</a>
+    <a href="https://github.com/bluzeey/netflix-clone/issues">Request Feature</a>
   </p>
 </div>
 
