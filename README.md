@@ -13,7 +13,7 @@
 <h3 align="center">100DaysOfConnection</h3>
 
   <p align="center">
-    This is a netflix clone which I have created using React,Styled Components and Firebase (as the backend).
+    This is a twitter bot which works like 100 days of code, but it is for networking and connections.
     <br />
     <a href="https://github.com/bluzeey/netflix-clone"><strong>Explore the docs »</strong></a>
     <br />
