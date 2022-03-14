@@ -60,7 +60,7 @@ setInterval(retweet, 3000000);
 // find a random tweet and 'favorite' it
 var favoriteTweet = function () {
   var params = {
-    q: '#100DaysofConnection', // REQUIRED
+    q: '#100DaysofConnections OR @100XConnections', // REQUIRED
     result_type: 'recent',
     lang: 'en'
   };
