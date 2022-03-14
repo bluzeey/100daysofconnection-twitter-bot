@@ -6,8 +6,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/bluzeey/netflix-clone">
-    <img src="public/favicon.ico" alt="Logo" width="80" height="80">
+  <a href="https://github.com/bluzeey/100daysofconnection-twitter-bot">
+    <img src="100DaysofConnection.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">100DaysOfConnection</h3>
@@ -22,7 +22,7 @@
     ·
     <a href="https://github.com/bluzeey/netflix-clone/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/netflix-clone/issues">Request Feature</a>
+    <a href="https://github.com/bluzeey/netflix-clone/issues">Request Feature</a>
   </p>
 </div>
 
