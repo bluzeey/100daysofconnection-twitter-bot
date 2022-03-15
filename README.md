@@ -155,4 +155,4 @@ Project Link: [NetflixV2](https://netflix-v2.netlify.app/)
 [license-url]: https://github.com/bluzeey/whatsapp-clone/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/sahil-maheshwari
-[product-screenshot]: 100DaysofConnectionScreenshot.PNG
+[product-screenshot]: https://github.com/bluzeey/100daysofconnection-twitter-bot/blob/main/100DaysofConnectionScreenshot.PNG
