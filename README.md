@@ -59,7 +59,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Netflix Clone
 
-[![Netflix][product-screenshot]](https://netflix-v2.netlify.app/)
+[![100DaysofConnection[product-screenshot]](https://netflix-v2.netlify.app/)
 
 
 
