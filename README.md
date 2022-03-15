@@ -100,7 +100,10 @@ This is an example of how to list things you need to use the software and how to
    ```
 3. Enter your API in `config.js`
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   consumer_key: process.env.CONSUMER_KEY,
+   consumer_secret: process.env.CONSUMER_SECRET,
+   access_token: process.env.ACCESS_TOKEN,
+   access_token_secret: process.env.ACCESS_TOKEN_SECRET,
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
