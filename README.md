@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/bluzeey/100daysofconnection-twitter-bot">
-    <img src="100DaysofConnection.png" alt="Logo" width="80" height="80">
+    <img src="/100DaysofConnection.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">100DaysOfConnection</h3>
