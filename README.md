@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/bluzeey/100daysofconnection-twitter-bot">
-    <img src="100DaysofConnection.png" alt="Logo" width="80" height="80">
+    <img src="100DaysofConnections.png" alt="Logo" width="300" height="300">
   </a>
 
 <h3 align="center">100DaysOfConnection</h3>
@@ -59,7 +59,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Netflix Clone
 
-[![Netflix][product-screenshot]](https://netflix-v2.netlify.app/)
+[![100DaysofConnection[product-screenshot]](https://netflix-v2.netlify.app/)
 
 
 
