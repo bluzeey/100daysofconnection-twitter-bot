@@ -57,7 +57,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## Netflix Clone
+## 100DaysofConnection Twitter Bot
 
 [![100DaysofConnection[product-screenshot]](https://netflix-v2.netlify.app/)
 
