@@ -57,9 +57,9 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## Netflix Clone
+## 100DaysofConnection Twitter Bot
 
-[![100DaysofConnection[product-screenshot]](https://netflix-v2.netlify.app/)
+[![100DaysofConnection][product-screenshot]](https://netflix-v2.netlify.app/)
 
 
 
@@ -69,9 +69,7 @@
 
 ### Built With
 
-* [React.js](https://reactjs.org/)
-* [Styled Components](https://styled-components.com/)
-* [Firebase](https://firebase.google.com/)
+* [Node.js](https://nodejs.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -94,7 +92,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/bluzeey/netflix-clone.git
+   git clone https://github.com/bluzeey/100daysofconnection-twitter-bot
    ```
 2. Install NPM packages
    ```sh
@@ -102,7 +100,10 @@ This is an example of how to list things you need to use the software and how to
    ```
 3. Enter your API in `config.js`
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   consumer_key: process.env.CONSUMER_KEY,
+   consumer_secret: process.env.CONSUMER_SECRET,
+   access_token: process.env.ACCESS_TOKEN,
+   access_token_secret: process.env.ACCESS_TOKEN_SECRET,
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -155,4 +156,4 @@ Project Link: [NetflixV2](https://netflix-v2.netlify.app/)
 [license-url]: https://github.com/bluzeey/whatsapp-clone/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/sahil-maheshwari
-[product-screenshot]: public/netflix.PNG
+[product-screenshot]: 100DaysofConnectionScreenshot.PNG
