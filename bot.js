@@ -14,7 +14,7 @@ var Twitter = new twit({
 // find latest tweet according the query 'q' in params
 var retweet = function () {
   var params = {
-    q: '#100DaysofConnections OR @100XConnections', // REQUIRED
+    q: '#100DaysofConnections OR #100DaysofConnection', // REQUIRED
     result_type: 'recent',
     lang: 'en'
   };
@@ -60,7 +60,7 @@ setInterval(retweet, 3000000);
 // find a random tweet and 'favorite' it
 var favoriteTweet = function () {
   var params = {
-    q: '#100DaysofConnections OR @100XConnections', // REQUIRED
+    q: '#100DaysofConnections OR #100DaysofConnection', // REQUIRED
     result_type: 'recent',
     lang: 'en'
   };
