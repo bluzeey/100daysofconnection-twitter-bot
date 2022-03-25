@@ -59,7 +59,7 @@
 <!-- ABOUT THE PROJECT -->
 ## 100DaysofConnection Twitter Bot
 
-[![100DaysofConnection[product-screenshot]](https://netflix-v2.netlify.app/)
+[![100DaysofConnection][product-screenshot]](https://netflix-v2.netlify.app/)
 
 
 
